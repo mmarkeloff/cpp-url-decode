@@ -1,0 +1,15 @@
+language: cpp
+
+branches:
+  only:
+    - main
+
+compiler:
+    - gcc
+
+jobs:
+  include:
+    - stage: "Test"
+      name: "Unit"
+      script: ./ci/test/unit.sh
+      

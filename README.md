@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mmarkeloff/cpp-url-decode.svg?branch=main)](https://travis-ci.com/mmarkeloff/cpp-url-decode)
+
 <h1 align="center">
 cpp-url-decode
 </h1>
